@@ -1,14 +1,24 @@
 {
     "departments": [
         {
-            "name": "Elektrik-Elektronik Mühendisliği",
-            "description": "Bilgisayar ve yazılım mühendisliği alanında eğitim ve araştırma.",
+            "name": "Elektrik-Elektronik Muhendisligi",
+            "description": "Elektrik ve elektronik sistemlerin tasarımı ve geliştirilmesi.",
             "videoId": "XeA55bbvrRU?si=QPxxIvUkX81iJSMo"
         },
         {
-            "name": "Bilgisayar Mühendisliği",
-            "description": "Elektrik ve elektronik sistemlerin tasarımı ve geliştirilmesi.",
+            "name": "Bilgisayar Muhendisligi",
+            "description": "Bilgisayar ve yazılım mühendisliği alanında eğitim ve araştırma.",
             "videoId": "QdzoFRQ8i58"
+        },
+        {
+            "name": "Hukuk Fakültesi",
+            "description": "Ankara Yıldırım Beyazıt Üniversitesi Hukuk Fakültesi Genel Tanıtımı",
+            "videoId": "E0AlQ_Pip6w"
+        },
+        {
+            "name": "Hukuk Fakültesi",
+            "description": "Yıldırım Beyazıt Üniversitesi - İnsan ve Toplum Bilimleri Fakültesi",
+            "videoId": "LV3FM_WkulQ"
         }
     ]
 }
